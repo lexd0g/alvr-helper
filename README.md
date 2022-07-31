@@ -4,4 +4,5 @@ PowerShell script to download and extract the ALVR server, and download and inst
 Requires ADB and cURL, the latter should be preinstalled on newer Windows versions.
 
 # To do:
-Ask when downloading each file, in case you just want to download the client or the server alone
+[ ] Ask when downloading each file, in case you just want to download the client or the server alone  
+[ ] Create start menu file for the server
